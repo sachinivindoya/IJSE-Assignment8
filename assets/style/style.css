@@ -33,19 +33,12 @@ body>main>section>div{
     box-shadow: -1px 1px 10px -1px black;
 
 }
-#1{
-    top: 10px;
-    position: relative;
-}
-#6{
-    top: 17px;
-    position: relative;
-}
+
 #btn-pnl{
     position: absolute;
     width: fit-content;
     height: fit-content;
-    left: 0;
+    left: 0px;
     right: 0;
     bottom: 0;
     top: 20vh;
